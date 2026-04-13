@@ -1,15 +1,5 @@
-class ZBP_ITEM_R_RV definition
-  public
-  abstract
-  final
-  create public .
-
-public section.
-protected section.
-private section.
+CLASS zbp_item_r_rv DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zsalesordh_r_rv.
 ENDCLASS.
 
-
-
-CLASS ZBP_ITEM_R_RV IMPLEMENTATION.
+CLASS zbp_item_r_rv IMPLEMENTATION.
 ENDCLASS.

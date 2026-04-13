@@ -5,7 +5,7 @@
    <SRVD>
     <NAME>ZSD_SALESORD_H_RV</NAME>
     <TYPE>SRVD/SRV</TYPE>
-    <DESCRIPTION>Service Definition - Header 1636</DESCRIPTION>
+    <DESCRIPTION>Service Definition - Header</DESCRIPTION>
     <LANGUAGE>EN</LANGUAGE>
     <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
     <SOURCE_URI>./zsd_salesord_h_rv/source/main</SOURCE_URI>
